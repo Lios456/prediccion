@@ -1,0 +1,8 @@
+Django==4.2.7
+pandas==2.0.3
+scikit-learn==1.3.0
+matplotlib==3.7.2
+joblib==1.3.2
+seaborn==0.12.2  # Opcional para gráficos más avanzados
+openpyxl==3.1.2  # Para leer archivos Excel
+python-decouple==3.8  # Para manejar variables de entorno
